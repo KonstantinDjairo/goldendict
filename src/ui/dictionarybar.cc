@@ -24,8 +24,11 @@ auto iconWidth = this->size().width();
 auto iconHeight = this->size().height();
 
 auto maxValue = std::max(iconWidth, iconHeight);
-normalIconSize = { maxValue, maxValue };
-
+if (iconWidth < maxValue) {
+    normalIconSize = { maxValue, maxValue };
+} else {
+    normalIconSize = { iconWidth, iconWidth };
+}
 
   setObjectName( "dictionaryBar" );
 
