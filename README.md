@@ -4,6 +4,9 @@
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=xiaoyifang_goldendict&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=xiaoyifang_goldendict)
 [![Build](https://github.com/xiaoyifang/goldendict-ng/actions/workflows/PR-check-cmake.yml/badge.svg)](https://github.com/xiaoyifang/goldendict-ng/actions/workflows/PR-check-cmake.yml)
 
+### Preserved [code](https://archive.softwareheritage.org/browse/origin/directory/?branch=refs/heads/staged&origin_url=https://github.com/xiaoyifang/goldendict-ng&snapshot=a02b50e86724e0471f57e297a006aa8db59a3de1) on Software Heritage
+
+
 The Next Generation GoldenDict. A feature-rich open-source dictionary lookup program,
 supporting [multiple dictionary formats](https://xiaoyifang.github.io/goldendict-ng/dictformats/) and online
 dictionaries.
