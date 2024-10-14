@@ -1,6 +1,6 @@
-despite my deepest and goodest intentions, i can't continue to contribute to this project, for a few reasons
-the first one being "you're a foreigner" (non-chinese)
-https://en.wikipedia.org/wiki/Racism_in_China
+despite my deepest and goodest intentions, i can't continue to contribute to this project, for a few reasons <br></br>
+the first one being "you're a foreigner" (non-chinese)<br></br>
+https://en.wikipedia.org/wiki/Racism_in_China<br></br><br></br>
 # GoldenDict-ng
 
 [![Crowdin](https://badges.crowdin.net/goldendict-ng/localized.svg)](https://crowdin.com/project/goldendict-ng)
