@@ -1,3 +1,5 @@
+## DISCLAIMER
+
 despite my deepest and goodest intentions, i can't continue to contribute to this project, for a few reasons <br></br>
 the first one being "you're a foreigner" (non-chinese)<br></br>
 https://en.wikipedia.org/wiki/Racism_in_China<br></br><br></br>
